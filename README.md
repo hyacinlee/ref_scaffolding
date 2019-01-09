@@ -7,11 +7,6 @@ try help:
 
 python ref_scaffolding.py -h 
 
-usage: ref_scaffolding.py [-h] [-a] [-r] [-o] [-t] [-f] [-s  [...]]
-
-RunCmd :
-    Funciton: Scaffoldding your assemblyed contig/scaffold genome base on reference align 
-
 	optional arguments:
 	  -h, --help  show this help message and exit
 		-a          assemblyed contig/scaffold genome (default: None)
